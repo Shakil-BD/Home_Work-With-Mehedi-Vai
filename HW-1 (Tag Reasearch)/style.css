@@ -1,0 +1,24 @@
+.headingTag {
+    background: wheat;
+    text-align: center;
+    width: 50%;
+    margin: 10px auto;
+    padding: 10px;
+}
+.head {
+    background: #c2c2c2;
+    padding: 30px;
+}
+.body p{
+        text-align: justify;
+        font-size: 25px;
+        padding: 10px 20px;
+}
+table,tr,th,td{
+    border:1px solid black;
+    font-size: 25px;
+    border-collapse: collapse;
+    padding: 10px;
+    text-align: center;
+    margin: 10px auto;
+}
